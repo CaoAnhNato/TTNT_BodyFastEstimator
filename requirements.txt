@@ -1,4 +1,5 @@
-streamlit
-numpy
-pickle
-matplotlib
+numpy>=1.9.2
+matplotlib>=1.4.3
+pandas>=0.19
+streamlit==1.38.0
+pickle>=0.6.1
