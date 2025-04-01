@@ -1,0 +1,1 @@
+Để chay code thì mở terminal thư mực chứa file "heroku_app.py" và gõ câu lệnh sau "streamlit run heroku_app.py"
